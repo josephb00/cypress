@@ -2,4 +2,5 @@ cypress/cache
 cypress/screenshots
 cypress/videos
 cypress/downloads
+cypress/e2e/tut
 node_modules
